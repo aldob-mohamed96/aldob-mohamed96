@@ -24,7 +24,4 @@ I'm mohamed gaber mobile Developer(Flutter).<br>I'm  working in Aljawab (SA)<br>
 
 <img src="https://rm.up.railway.app/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=aldob-mohamed96&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
