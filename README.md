@@ -3,12 +3,8 @@
   Welcome to Mohamed Gaber profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
-
-<p align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Delevoper+%7C%7CFlutter+%26%26+Dart)](https://git.io/typing-svg)
-  </a>
-</p> 
+<a
+   href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Delevoper+%7C%7CFlutter+%26%26+Dart" alt="Typing SVG" /></a>
 
 - 🏢 I'm a Software Developer in Aljawab (SA)
 - 👨‍💻 As a Cs student, I'm constantly learning and exploring new technologies to improve my skills.
