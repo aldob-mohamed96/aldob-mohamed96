@@ -1,5 +1,4 @@
-
-<div class="tenor-gif-embed" data-postid="17808955" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-encoding-typing-working-busy-gif-17808955">Code Encoding Sticker</a>from <a href="https://tenor.com/search/code-stickers">Code Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" width="40" src="https://media.tenor.com/G69XvhZj1wMAAAAC/code-encoding.gif">
 
 <h3 align="center">
   Welcome to Mohamed Gaber profile!
