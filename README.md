@@ -16,8 +16,10 @@ I'm mohamed gaber software Developer||Flutter.<br>I'm  working in Aljawab (SA)<b
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohamedgaberyoussef1996) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aldob-mohamed96) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aldob_mohamed96) 
-<a href="https://t.me/YousefMohamed01" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mohamedgaberyoussef1996) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aldob-mohamed96)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aldob_mohamed96) 
+
 
 
 ### 🛠 &nbsp;Tech Stack
