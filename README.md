@@ -16,7 +16,7 @@ I'm mohamed gaber software Developer||Flutter.<br>I'm  working in Aljawab (SA)<b
 ![](https://github-profile-trophy.vercel.app/?username=aldob-mohamed96&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=aldob-mohamed96&limit=5&theme=dark&combine_all_yearly_contributions=true)
