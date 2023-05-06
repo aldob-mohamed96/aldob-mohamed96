@@ -12,7 +12,7 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 # 💫 About Me:
-I'm mohamed gaber software Developer||Flutter.<br>I'm  working in Aljawab (SA)<br>up 2 year flutter developer. Good reputation for resolving<br>problems and improving customer satisfaction. Exceptional U/I and<br>U/X- oriented Software Engineer with creativity and foresight in<br>tailoring apps and programs to fit needs of diverse customer base.<br>Leader in inspiring team cohesion despite conflicting perspectives and<br>ideas. producing and maintaining flawless and enduring code.
+<br>up 2 year flutter developer. Good reputation for resolving<br>problems and improving customer satisfaction. Exceptional U/I and<br>U/X- oriented Software Engineer with creativity and foresight in<br>tailoring apps and programs to fit needs of diverse customer base.<br>Leader in inspiring team cohesion despite conflicting perspectives and<br>ideas. producing and maintaining flawless and enduring code.
 
 
 ## 🌐 Socials:
