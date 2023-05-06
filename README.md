@@ -1,4 +1,4 @@
-<img align="right" width="40" src="https://media.tenor.com/G69XvhZj1wMAAAAC/code-encoding.gif">
+<img align="right"src="https://media.tenor.com/G69XvhZj1wMAAAAC/code-encoding.gif">
 
 <h3 align="center">
   Welcome to Mohamed Gaber profile!
