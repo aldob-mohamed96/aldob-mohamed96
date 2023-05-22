@@ -12,7 +12,12 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 # 💫 About Me:
-<br>up 2 year flutter developer. Good reputation for resolving<br>problems and improving customer satisfaction. Exceptional U/I and<br>U/X- oriented Software Engineer with creativity and foresight in<br>tailoring apps and programs to fit needs of diverse customer base.<br>Leader in inspiring team cohesion despite conflicting perspectives and<br>ideas. producing and maintaining flawless and enduring code.
+<br>I am a Software Developer ( Flutter )  with 3 years of experience in building high-quality, user-friendly mobile apps. <br>I have a strong understanding of the Flutter framework and Dart programming language.<br> I am also proficient in mobile development principles and best practices. Good reputation for resolving<br>
+problems and improving customer satisfaction. Exceptional U/I and<br>
+U/X- oriented Software Engineer with creativity and foresight in<br>
+tailoring apps and programs to fit needs of diverse customer base.<br>
+Leader in inspiring team cohesion despite conflicting perspectives and<br>
+ideas. producing and maintaining flawless and enduring code.<br>
 
 
 ## 🌐 Socials:
