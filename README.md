@@ -6,13 +6,13 @@
 <a
    href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Delevoper+%7C%7CFlutter+%26%26+Dart" alt="Typing SVG" /></a>
 
-- 🏢 I'm a Software Developer in Aljawab (SA)
+- 🏢 I'm a Software Developer in StudiFlats (Eg)
 - 👨‍💻 As a Cs student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my Dart with Flutter or anything related to mobile development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 # 💫 About Me:
-<br>I am a Software Developer ( Flutter )  with 3 years of experience in building high-quality, user-friendly mobile apps. <br>I have a strong understanding of the Flutter framework and Dart programming language.<br> I am also proficient in mobile development principles and best practices. Good reputation for resolving<br>
+<br>As a passionate Senior Flutter Developer, I have extensive experience in crafting high-performance mobile applications. I thrive in collaborative environments, leveraging Agile methodologies to deliver user-centric solutions. My expertise in integrating RESTful APIs, applying state management techniques, and ensuring code quality has allowed me to successfully lead multiple mobile app projects across various platforms.<br> I am also proficient in mobile development principles and best practices. Good reputation for resolving<br>
 problems and improving customer satisfaction. Exceptional U/I and<br>
 U/X- oriented Software Engineer with creativity and foresight in<br>
 tailoring apps and programs to fit needs of diverse customer base.<br>
