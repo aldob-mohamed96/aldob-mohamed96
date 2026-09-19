@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-Senior Flutter Developer with **4+ years** of experience building scalable, high-performance mobile applications using **Flutter & Dart**. I specialize in clean architecture, advanced state management, API integration, and CI/CD automation. My apps are live on both the **App Store** and **Google Play**, with a track record of boosting app ratings and client engagement.
+Senior Flutter Developer with **5+ years** of experience building scalable, high-performance mobile applications using **Flutter & Dart**. I specialize in clean architecture, advanced state management, API integration, and CI/CD automation. My apps are live on both the **App Store** and **Google Play**, with a track record of boosting app ratings and client engagement.
 
 - 🏢 Currently working at **ISG** (Egypt) & **Studiflats** (Egypt)
 - 🌍 Based in **Egypt** — worked with companies across Saudi Arabia, Jordan & Libya
