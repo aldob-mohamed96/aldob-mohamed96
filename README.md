@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Mohamed+Youssef+Gaber;Senior+Flutter+Developer;4%2B+Years+of+Mobile+Excellence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Mohamed+Youssef+Gaber;Senior+Flutter+Developer;5%2B+Years+of+Mobile+Excellence" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -8,7 +8,8 @@
 
 <p align="center">
   <a href="mailto:mohamedgaberyoussef1996@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/aldob-mohamed96"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aldob-mohamed96/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/aldob-mohamed96"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://twitter.com/aldob_mohamed96"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://facebook.com/mohamedgaberyoussef1996"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=aldob-mohamed96&style=for-the-badge&color=0078D4" alt="Profile Views"/>
@@ -18,9 +19,9 @@
 
 ## 👨‍💻 About Me
 
-Senior Flutter Developer with **5+ years** of experience building scalable, high-performance mobile applications using **Flutter & Dart**. I specialize in clean architecture, advanced state management, API integration, and CI/CD automation. My apps are live on both the **App Store** and **Google Play**, with a track record of boosting app ratings and client engagement.
+Senior Flutter Developer with **5+ years** of experience building scalable cross-platform mobile applications using **Flutter & Dart**. I specialize in Clean Architecture, BLoC/Riverpod state management, Firebase services, CI/CD pipelines, and performance optimization. I've delivered **10+ production-grade apps** published on **Google Play** and the **App Store**, serving thousands of active users across education, e-commerce, automotive, and real-estate industries.
 
-- 🏢 Currently working at **ISG** (Egypt) & **Studiflats** (Egypt)
+- 🏢 Currently working at **AMAN EVER Company For Marketing Services** (Saudi Arabia, Remote)
 - 🌍 Based in **Egypt** — worked with companies across Saudi Arabia, Jordan & Libya
 - 📱 Published multiple production apps on both stores
 - 🧠 Advocate for **Clean Architecture**, **SOLID** & **DRY** principles
@@ -53,6 +54,10 @@ Senior Flutter Developer with **5+ years** of experience building scalable, high
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
+### Real-Time & Streaming
+![Agora](https://img.shields.io/badge/Agora_RTC/RTM-099DFD?style=for-the-badge&logo=agora&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
+
 ### Local Storage
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FF7F00?style=for-the-badge&logo=hive&logoColor=white)
@@ -71,12 +76,13 @@ Senior Flutter Developer with **5+ years** of experience building scalable, high
 ![Unit Testing](https://img.shields.io/badge/Unit_Testing-05122A?style=for-the-badge&logo=dart&logoColor=white)
 ![Widget Testing](https://img.shields.io/badge/Widget_Testing-05122A?style=for-the-badge&logo=flutter&logoColor=white)
 ![Integration Testing](https://img.shields.io/badge/Integration_Testing-05122A?style=for-the-badge&logo=flutter&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito_/_Mocktail-05122A?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Other Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
 
@@ -84,69 +90,93 @@ Senior Flutter Developer with **5+ years** of experience building scalable, high
 
 | Company | Role | Location | Period |
 |---|---|---|---|
-| 🏢 **ISG** | Senior Flutter Developer (Full-time) | Egypt | 05/2025 – Present |
-| 🏠 **Studiflats** | Senior Flutter Developer (Part-time) | Egypt | 04/2025 – 10/2025 |
+| 🏢 **AMAN EVER Company For Marketing Services** | Senior Flutter Developer (Full-time) | Saudi Arabia (Remote) | 06/2026 – Present |
+| 🏢 **ISG – Intelligent Systems Group** | Senior Flutter Developer (Full-time) | Egypt | 05/2025 – 05/2026 |
+| 🏠 **Studiflats** | Senior Flutter Developer (Part-time, Remote) | Egypt | 04/2025 – 10/2025 |
 | 🏢 **Almusanid** | Senior Flutter Developer (Full-time) | Saudi Arabia | 10/2024 – 03/2025 |
-| ✈️ **AIF** | Senior Flutter Developer (Part-time) | Jordan | 07/2024 – 01/2025 |
-| 🛒 **Taajir Company** | Flutter Developer (Part-time) | Libya | 05/2023 – 05/2024 |
+| ✈️ **AIF** | Senior Flutter Developer (Part-time, Remote) | Jordan | 07/2024 – 01/2025 |
+| 🛒 **Taajir Company** | Flutter Developer (Freelance / Remote) | Libya | 05/2023 – 05/2024 |
 | 📱 **Aljawab Company** | Flutter Developer (Full-time) | Saudi Arabia | 10/2021 – 10/2024 |
 
 ---
 
 ## 📱 Published Apps
 
+### 🏙️ Mondera (مونديرا)
+> Real estate marketplace app for property search and listings
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/mondera-real-estate/id6792721128)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.codebyte.mondera)
+
+---
+
+### 🎓 Scola (سكوالا)
+> Smart LMS platform connecting teachers, students & parents
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/%D8%B3%D9%83%D9%88%D9%84%D8%A7-scola/id6749830314)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.isgapps.scola&hl=ar)
+
+---
+
 ### 🚢 Tajir Shipping
 > Vehicle shipping app from the U.S. to Libya
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/ly/app/%D8%AA%D8%A7%D8%AC%D8%B1-%D9%84%D9%84%D8%B4%D8%AD%D9%86-tajr-shipping/id6479543764)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.taajir.apps&hl=ar)
 
 ---
 
 ### 🧱 Matryal
-> Building materials shopping app
+> Building materials shopping app for buyers
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/matryal/id6752212052)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.matryal.client)
+
+---
+
+### 🏪 Seller Matryal
+> Building materials platform for sellers
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/matryal-seller/id6754189089)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.matryal.seller)
 
 ---
 
 ### 🏠 Studiflats
 > Student housing rental app
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
-
----
-
-### 🏪 Seller Matryal
-> Building seller materials shopping app
-
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
-
----
-
-### 🚗 تاجر للسيارات
-> Comprehensive platform for sellers and buyers to list and purchase cars
-
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/pl/app/studiflats/id6474908385)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.studiflats.app)
 
 ---
 
 ### 💍 سكنة للزواج الإسلامي
-> Platform specializing in helping men and women find partners in an Islamic way
+> Islamic matchmaking platform helping men and women find partners in an Islamic way
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D8%B3%D9%83%D9%86%D8%A9-%D9%84%D9%84%D8%B2%D9%88%D8%A7%D8%AC-%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A/id6479964518)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.soknaa&hl=ar)
+
+---
+
+### 🚗 تاجر للسيارات (Tajir Cars)
+> Car listing & purchase platform for sellers and buyers
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.taajir.automarket)
+
+---
+
+### 🌹 Aljawab – Rose Captain
+> Cross-platform lifestyle & services app
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=app.aljawab.rosecapptian&hl=ar)
 
 ---
 
 ### 🧪 منصة احمد الهاشمي
-> Comprehensive educational application for chemistry students
+> Educational chemistry app for students
 
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
-[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/eg/app/%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%A7%D8%B0-%D8%A7%D8%AD%D9%85%D8%AF-%D8%A7%D9%84%D9%87%D8%A7%D8%B4%D9%85%D9%8A/id6751782980)
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.drouskpro.app&hl=ar)
 
 ---
 
@@ -171,6 +201,12 @@ Senior Flutter Developer with **5+ years** of experience building scalable, high
 
 **Bachelor of Computer Science and Information Technology**
 Assiut University, Egypt — *09/2014 – 07/2018*
+
+---
+
+## 🌐 Languages
+
+Arabic — Native · English — Professional Working Proficiency
 
 ---
 
